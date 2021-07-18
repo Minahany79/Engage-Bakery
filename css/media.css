@@ -1,0 +1,70 @@
+
+@media screen and (max-width: 992px) and (min-width: 768px) {
+    .secsix .container .about,
+    .special,
+    .opening-hours,
+    .contacts {
+        width: 50%;
+        padding-bottom: 20px;
+    }
+
+    .sectwo .parent {
+      padding-top: 0;
+    }
+
+    .secthree .parent {
+      padding-top: 0;
+    }
+    
+    
+}
+
+@media screen and (max-width: 768px) {
+  .sectwo .img {
+    width: 100%;
+    margin: auto;
+  }
+
+  .sectwo .img img {
+    width: 100%;
+  }
+
+  .sectwo .parent {
+    width: 100%;
+    margin: auto;
+  }
+
+  .secthree .parent {
+    width: 100%;
+  }
+
+  .secthree .img {
+    padding-top: 40px;
+    width: 100%;
+  }
+
+  .secthree .img img {
+    width: 100%;
+  }
+
+  .secfour .items .item {
+    width: 100%;
+    margin-bottom: 30px;
+  }
+
+  .secfive .parent {
+    width: 100%;
+  }
+
+  .secfive .map {
+    width: 100%;
+  }
+
+  .secsix .container .about,
+  .special,
+  .opening-hours,
+  .contacts {
+    width: 100%;
+    margin-bottom: 20px;
+  }
+}
